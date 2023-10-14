@@ -1,0 +1,10 @@
+package Pertemuanke6;
+
+public class Main {
+     
+    public static void main(String[] args) {
+        String makul = "Dasar Dasar Penrograman";
+        String hari = "selasa 2023";
+        System.out.println(makul + hari);
+    }
+}
