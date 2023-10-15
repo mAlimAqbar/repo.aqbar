@@ -1,0 +1,28 @@
+package mainstring;
+
+public class Main {
+    
+    public static void main(String[] args) {
+
+        //membuat variabel
+        String nama,alamat;
+        int usia;
+        double tinggi;
+        
+        //mengisi variabel
+        
+        nama = "m alim aqbar";
+        alamat = "tapalang";
+        usia = 20;
+        tinggi = 160.1;
+        
+        //mencetak ke layar isi variabel
+        System.out.println("nama:" + nama);
+        System.out.println("alamat:" + alamat);
+        System.out.println("usia;" + usia + "tahun");
+        System.out.println("tinggi:" + tinggi + "cm");
+        
+        
+    }
+    
+}
