@@ -1,0 +1,15 @@
+package hari8;
+
+public class Main {
+    
+    public static void main(String[] args) {
+        
+        int jumla_anak = 5;
+        double berat = 12.3;
+        
+        System.out.println("jumla_anak");
+        System.out.println("berat");
+            
+    }
+    
+}
