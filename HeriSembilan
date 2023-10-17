@@ -1,0 +1,22 @@
+package harisembilan;
+
+public class Main {
+    
+    public static void main(String[] args) {
+        
+        byte siswa = 17;
+        double tinngi_badang = 160.2;
+        int umur_sekola = 24;
+        short gedung_kembar = 2;
+        String nama =("unsulbar");
+        
+        
+        System.out.println("siswa:"+siswa + "tahun");
+        System.out.println("tinggi_badang" + "160.2 cm");
+        System.out.println("umur_sekola:"+umur_sekola+ "tahun");
+        System.out.println("gedung_kembari"+gedung_kembar);
+        System.out.println("nama:" + nama + "mapaccing");
+        
+    }
+    
+}
