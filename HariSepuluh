@@ -1,0 +1,23 @@
+package hari10;
+
+public class Main {
+    
+    public static void main(String[] args) {
+        
+        String minum = ("kopi pahit");
+        String kantin = "sma teman";
+        byte gelas = 5;
+        double menit = 32.2;
+        
+        System.out.println("kopi pahit");
+        System.out.println("kantin" + "sekola");
+        System.out.println("gelas;" + gelas + "bersama");
+        System.out.println("meniit" + 32.2);
+        
+        
+        
+        
+        
+    }
+    
+}
