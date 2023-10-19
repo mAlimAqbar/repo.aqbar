@@ -1,0 +1,25 @@
+package pertemuan11;
+
+public class Main {
+    
+    public static void main(String[] args) {
+        
+    String mobil = ("saya punya mobil");
+        byte ber_jumla = 5;
+        double ukuran = 3.5;
+        float berat = 40.2f;
+        String saya = ("mau bgi bagi");
+        
+        System.out.println("saya punya mobil");
+        System.out.println("berjumla" + 5);
+        System.out.println("ukuran" + 3.5+ "meter");
+        System.out.println("berat_mobilsay:" + 40.2 +"kg");
+        System.out.println("saya_bagi"+"ketetangga_saya");
+        
+        
+        
+        
+        
+    }
+    
+}
