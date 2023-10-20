@@ -1,0 +1,18 @@
+package HariDuabelas;
+
+public class Main {
+    
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+        String kamu = ("sodara saya");
+        int sodara = 'L';
+        String dan = ("bukan sepupu saya");
+        
+        System.out.println("kamu" + "sodara saya");
+        System.out.println("L:" + "laki laki");
+        System.out.println("dan" + "bukan sepupu saya");
+         
+        
+    }
+    
+}
