@@ -1,0 +1,15 @@
+package HariTigabelas;
+
+public class Main {
+    
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+        String milik = ("dia milik saya");
+        String tiidak = ("akan bisa km ambil ini suda mutlat");
+        
+        System.out.println ("milik:" + "selamanya");
+        System.out.println ("tiidak"+"akan bisa km ambil ini suda mutlat");
+        
+    }
+    
+}
