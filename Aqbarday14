@@ -1,0 +1,17 @@
+package day14;
+
+public class Main {
+    
+    public static void main(String[] args) {
+        
+        String belajar = ("mempelajari");
+        char dapat_nilai = 'A';
+        String syukur =("alhamdulillah");
+        
+        System.out.println("belajar" + "mempelajari_DDP");
+        System.out.println("dapat_nilai" + "A");
+        System.out.println("syukur"+"alhamdulilla");
+        
+    }
+    
+}
