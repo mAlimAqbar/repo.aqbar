@@ -1,0 +1,16 @@
+package aqbar12;
+
+public class Main {
+    
+    public static void main(String[] args) {
+        
+        String balon = ("itu sangat banayk");
+        short jumla = 50;
+        
+        System.out.println("balon" + "itu sangat banyak");
+        System.out.println("50" + "jumla");
+        
+        
+    }
+    
+}
