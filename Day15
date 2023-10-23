@@ -1,0 +1,17 @@
+
+public class Main {
+    
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+        String nama = ("m alim aqbar");
+        String alamat = ("Tapalang Barat");
+        byte umur = 20;
+        double tinggi = 160.2;
+        
+        System.out.println("nama \t: " + nama);
+        System.out.println("alamat\t: " + alamat);
+        System.out.println("umur\t: " + umur);
+        System.out.println("tinggi\t:" + tinggi);
+    }
+    
+}
