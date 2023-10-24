@@ -1,0 +1,18 @@
+
+public class Main {
+    
+    public static void main(String[] args) {
+        
+        String kendaraan  = ("motorr");
+        Byte banyak = 5;
+        short tahun = 4;
+        int roda = 3;
+        
+        System.out.println("kendaraan\t:"+kendaraan);
+        System.out.println("banyak\t\t:" + banyak);
+        System.out.println("tahun\t\t:"+ tahun);
+        System.out.println("roda\t\t:"+roda);
+    
+    }
+    
+}
