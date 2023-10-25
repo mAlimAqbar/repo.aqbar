@@ -1,0 +1,15 @@
+package day17;
+
+public class Main {
+    
+    public static void main(String[] args) {
+        
+        String nilaiString = "100";
+        int nilaiInt = Integer.parseInt(nilaiString);
+        double nilaiDouble = Double.parseDouble(nilaiString);
+        byte b = Byte.parseByte(nilaiString);
+        
+        System.out.println("Nilai\t:"+nilaiInt+"\nNilai\t:"+nilaiDouble+"\nNilai\t:"+b);
+    }
+    
+}
