@@ -1,0 +1,18 @@
+package day18;
+
+public class Main {
+    
+    public static void main(String[] args) {
+        
+        
+    int angka = 50;
+        String angkaString = Integer.toString(angka);
+        double angkaDouble = 2.578;
+        String angkaDoubleString = Double.toString(angkaDouble);
+        
+            
+        
+        System.out.println("Nilai\t:"+angkaString );
+    }
+    
+}
