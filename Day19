@@ -1,0 +1,34 @@
+
+public class Main {
+    
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+        String alamat,merek;
+        short hendpone;
+        double ukuran;
+        
+        
+        String nama = "alim";
+        byte umur = 19;
+        float beratbadan = 55.5f;
+        double tinggibadang = 160.2;
+        char kelamin = 'L';
+        System.out.println("nama\t\t:" + nama);
+        System.out.println("umur\t\t:" + umur +"tahun");
+        System.out.println("beratbadang\t:" + 55.5+"cm");
+        System.out.println("tinggibadang\t:" + tinggibadang +"kg");
+        System.out.println("kelamin\t\t:" + kelamin);
+        
+        alamat = "tapalang";
+        merek = "vivo";
+        hendpone = 5;
+        ukuran = 1.2;
+        
+        
+        System.out.println("alamat\t\t:"+alamat);
+        System.out.println("merekhp\t\t:"+merek);
+        System.out.println("hendpone\t:"+hendpone);
+        System.out.println("ukuran\t\t:"+ukuran+"ml");
+    }
+    
+}
