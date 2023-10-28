@@ -1,0 +1,16 @@
+package day20;
+
+public class Main {
+    
+    public static void main(String[] args) {
+        
+        //deklarasi variabel lokal
+        int jumlahPermen = 0;
+        
+        jumlahPermen = jumlahPermen +1;
+        System.out.println("jumlah permen : " + jumlahPermen );
+        
+    
+    }
+    
+}
