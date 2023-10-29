@@ -1,0 +1,34 @@
+package day21;
+
+import java.util.Scanner;
+
+public class Main {
+    
+    public static void main(String[] args) {
+        
+        //menjelaskan
+        
+        Scanner Scanner = new Scanner (System.in);
+        
+        
+        //projek  
+        
+        System.out.print("kampus gue:");
+        String nama = Scanner.next();
+        System.out.print("teman gue:");
+        int teman_gue  = Scanner.nextInt();
+        System.out.print("nilai:");
+        int nilai = Scanner.nextInt();
+        
+        
+        
+        //hasil
+        
+        System.out.print("nama:"+ nama);
+        System.out.print("teman_gue:"+teman_gue);
+        System.out.print("nilai:"+ nilai);
+        
+        
+    }
+    
+}
