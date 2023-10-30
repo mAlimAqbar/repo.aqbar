@@ -1,0 +1,22 @@
+package day22;
+
+public class Main {
+    
+    public static void main(String[] args) {
+        
+        byte penjumlahan = 50 + 5;
+        int pengurangan = 50 - 10;
+        long perkalian = 3 * 5;
+        short pembagian = 50/ 5;
+        short bagihasil = 50 % 5;
+        
+        
+        
+        System.out.println("penjumlahan/t:"+ penjumlahan);
+        System.out.println("pengurangan/t:"+pengurangan);
+        System.out.println("perkalian/t/t:"+perkalian);
+        System.out.println("pembagian/t/t:"+pembagian);
+        System.out.println("bagihasil/t/t:"+bagihasil);
+    }
+    
+}
