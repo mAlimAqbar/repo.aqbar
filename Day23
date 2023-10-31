@@ -1,0 +1,21 @@
+package day23;
+
+public class Main {
+    
+    public static void main(String[] args) {
+        
+        int angka = 30;
+        angka += angka;
+        double angka1 = 20.5;
+        angka1 -= angka1;
+        short angka2 = 50;
+        angka2 *= angka2;
+        byte angka3 = 10;
+        angka3 /=5;
+        float angka4 = 20.0f;
+        angka4 %=2;
+        
+        System.out.println(angka+"\n"+angka1+"\n"+angka2+"\n"+angka3+"\n"+angka4);
+    }
+    
+}
