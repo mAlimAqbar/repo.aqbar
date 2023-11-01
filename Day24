@@ -1,0 +1,22 @@
+package day24;
+
+public class Main {
+    
+    public static void main(String[] args) {
+        
+        int nilai = 7;
+        int nilai1 = 6;
+        
+        boolean sama = (nilai == nilai1); //true
+        boolean tidaksama = (nilai != nilai1);//true
+        boolean lebihbesar = (nilai < nilai1);//true
+        boolean kurangDari = (nilai > nilai1);//trus
+        boolean lebihBesarSamaDengan = ( nilai >= nilai1);//true
+        boolean kurangSamaDengan = (nilai <= nilai1);//trus
+        
+        
+        System.out.println(nilai+nilai1);
+        System.out.println("sama:" + tidaksama + lebihbesar +"kurangDari" + lebihBesarSamaDengan + "KurangSamaDengan");
+    }
+    
+}
