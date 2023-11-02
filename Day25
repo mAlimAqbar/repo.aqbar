@@ -1,0 +1,17 @@
+package Day25;
+
+public class Main {
+    
+    public static void main(String[] args) {
+        
+        boolean kondisi3 = true;
+        boolean kondisi4 = false;
+        
+        boolean hasil3 = kondisi3 && kondisi4;//false
+        boolean  hasil4 = kondisi3 || kondisi4;//true
+        boolean  hasil5 = !kondisi3;//false
+        
+        System.out.println("hasil3" + hasil4 + hasil5);
+    }
+    
+}
