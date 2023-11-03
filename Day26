@@ -1,0 +1,21 @@
+package day26;
+
+public class Main {
+    
+    public static void main(String[] args) {
+        
+        byte roda1 = 2;
+        double lebar = 4.21;
+        float nilai  = 2.1f;
+        String nilai1 = ("juta rupiah");
+        if (roda1 == 6 && lebar > nilai ) {
+            
+        }else {
+            System.out.println("anda harus membayar cicilan anda /bln sebesar");
+            System.out.println(roda1+lebar+nilai);
+            System.out.println(nilai1);
+    }
+     
+}
+    
+}
