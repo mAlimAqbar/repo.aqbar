@@ -1,0 +1,18 @@
+package day28;
+
+public class Main {
+    
+    public static void main(String[] args) {
+        
+        String nama = "kampusku keren ";
+        String mahasiswa = "alumninya hebat hebat";
+        System.out.println(nama + mahasiswa);
+        
+        if ("aku"== "aku_sendir_susa_pintar"){
+            
+        }else{
+            System.out.println("aku sendiri susah pintar");
+            System.out.println("padahal aku sangat ingin mengetahuinya");
+        }
+    }
+}
