@@ -1,0 +1,15 @@
+package day29;
+
+public class Main {
+    
+    public static void main(String[] args) {
+        
+        int A =8;
+    String input  = (A < 7) ? "sesuatu yang berusaha pasti ada7nya" : "sesuatu yang ada pastia ada 7 nya:";
+    String nama = ("m alim aqbar....= ");
+    String baca = "penulis";  
+        System.out.println(input + nama + baca);
+        
+    }
+    
+}
